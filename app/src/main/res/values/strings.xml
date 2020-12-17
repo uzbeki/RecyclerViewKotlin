@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">I can pass Kotlin Exam.</string>
+    <string name="affirmation2">Programming is fun.</string>
+    <string name="affirmation3">Each day is a new chance to learn more, discover more enjoy more.</string>
+    <string name="affirmation4">I have so much to be grateful for.</string>
+    <string name="affirmation5">I am resilient, no hardship can kneel me.</string>
+    <string name="affirmation6">A smile on the face keeps everyone happy</string>
+    <string name="affirmation7">Gotta work out, instead of sitting on a chair all day.</string>
+    <string name="affirmation8">Healthy lifestyle is an investment for long life.</string>
+    <string name="affirmation9">Positivity calls for more positivity, and vice versa.</string>
+    <string name="affirmation10">Eternal happiness is boring. Balance is key in my life.</string>
+    <string name="affirmation11">The fate is more or less mine, and mine only.</string>
+    <string name="affirmation12">Relationships are important. Gotta keep them alive.</string>
+    <string name="affirmation13">The day when I no longer feel stressed about money will come, or I will make it come.</string>
+    <string name="affirmation14">We are all one in this planet, I do not tolerate separatism.</string>
+    <string name="affirmation15">Science is key in answering my biggest questions in life. </string>
+    <string name="affirmation16">Curiosity keep me alive and thirsty for more in life. </string>
+    <string name="affirmation17">Understanding different opinions than mine is a crucial skill that I lack. Must be no more.</string>
+    <string name="affirmation18">Home for me is not where I was born, but where I feel home. The planet is my home. </string>
+    <string name="affirmation19">I will travel around the world by bike. </string>
+    <string name="affirmation20">I will create something that benefits the world.</string>
+</resources>
